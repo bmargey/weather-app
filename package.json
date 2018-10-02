@@ -1,0 +1,29 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "basic weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmargey/weather-app.git"
+  },
+  "keywords": [
+    "weather",
+    "widget",
+    "app\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C",
+    "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[",
+    "app"
+  ],
+  "author": "bmargey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmargey/weather-app/issues"
+  },
+  "homepage": "https://github.com/bmargey/weather-app#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
